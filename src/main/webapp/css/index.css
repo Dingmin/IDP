@@ -1,0 +1,116 @@
+body{	
+	background-color: #CCE6FF;
+}
+.first{
+	width: 100%;
+	height: 90%;
+}
+
+.content{
+	position: relative;
+	width:100%;
+	height: 10%;
+	margin-top: 5%;
+	box-shadow: 5px 5px 3px 3px #CCE6FF;
+	text-align: center;
+	font-size: 40px;
+	line-height: -22px;
+	padding: 12px;
+	filter:alpha(Opacity=20);-moz-opacity:0.2;opacity: 0.2;
+}
+
+.sign{
+	position: relative;
+	width:100%;
+	height: 10%;
+	margin-top: 2%;
+	box-shadow: 5px 5px 3px 3px #CCE6FF;
+	text-align: center;
+	font-size: 40px;
+	line-height: -22px;
+	padding: 12px;
+	filter:alpha(Opacity=20);-moz-opacity:0.2;opacity: 0.2;
+}
+#reg{
+height: 420px;
+}
+.WARN{
+	background-color:#FF4747 ;
+}
+.login{
+
+	position: relative;
+	width:60%;
+	min-height: 50%;
+	height: 300px;
+	margin-top: 10px;
+	margin-left: 20%;
+	border-style: none;
+	background-color: #000000;
+	background-color: rgba(0, 0, 0, 0.1);
+}
+.login form{
+	position: relative;
+	font-size: 20px;
+	padding-top: 30px;
+	text-align: center;
+}
+.login form input{
+	margin-top: 14px;
+	margin-left: 6px;
+	width:28%;
+	height: 40px;
+	border-radius: 2px;
+	font-size: 20px;
+	font-weight: 4px;
+	font-style: normal;
+	font-family: "微软雅黑";
+	background-color: #FFFFFF;
+	border-style: none;
+}
+.login button{
+	position: relative;
+	margin-top: 50px;
+	width:35%;
+	height: 40px;
+	font-size: 20px;
+	background-color:#B8B8B8;
+	padding: 0px;
+	border-style: none;
+}
+
+.login p{
+	font-size: 10px;
+}
+
+.login p a{
+
+	text-decoration: none;
+}
+
+#sign_up{
+	position: relative;
+	width:60%;
+	min-height: 50%;
+	height: 130px;
+	margin-top: 10px;
+	margin-left: 20%;
+	border-style: none;
+	background-color: #000000;
+	background-color: rgba(0, 0, 0, 0.1);
+}
+#sign_up p{
+text-align: center;
+font-size: 23px;
+font-weight: 10px;
+}
+#sign_up button{
+		position: relative;
+	margin-left: 31%;
+	width:35%;
+	height: 40px;
+	font-size: 20px;
+	background-color:#B8B8B8;
+	padding: 0px;
+	border-style: none;
+}

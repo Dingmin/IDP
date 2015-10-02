@@ -1,0 +1,19 @@
+.user{
+	position: relative;
+	float: right;
+	text-align: center;
+	margin-right: 2%;
+	margin-top: 2%;
+}
+.user a{
+	font-style: none; 
+	text-decoration: none;
+}
+
+.content{
+	position: relative;
+	width: 100%;
+	height: 1200px;
+	margin-top: 14%;
+	color: #000000;
+}
