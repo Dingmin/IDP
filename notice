@@ -1,0 +1,5 @@
+架构:OpenSAML+springmvc
+OpenSAML部分仍需要改善:
+1.项目中使用的OpenSAML仍需要对Assertion 进行数字认证已加强安全性
+2.Assertion 加密方式有待改进
+3.增加消息推送服务
